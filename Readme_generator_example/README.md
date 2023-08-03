@@ -1,6 +1,6 @@
 
-  # 
-  ![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)
+  # Readme Generator
+  ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
   ## User Story 
      
@@ -23,7 +23,7 @@
   
   ## Descripiton
   
-  
+  Description
 
   ## Table of contents
   
@@ -47,27 +47,27 @@
 
   ## Installation Instructions
 
-  
+  Installation
 
   ## Usage Information
   
-  
+  Usage
 
   ## Contribution GuideLines
 
-  
+  Contribution
 
   ## Test Instructions
    
-  
+  Test
 
   ## License
 
-  The chosen license is [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/).
+  The chosen license is [MIT](https://choosealicense.com/licenses/mit/#).
   
   ## Questions
 
-  Github: [](https://github.com/Palafos23)
+  Github: [Palafos23](https://github.com/Palafos23)
   
 
-  Email: 
+  Email: josephpalafos24@gmail.com
