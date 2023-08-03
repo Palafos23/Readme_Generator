@@ -66,7 +66,10 @@
 
   -clone repository to working folder. 
 
-  -Do an npm install in terminal if needed. 
+  -Do an npm install in terminal. 
+
+  -lastly, within utils folder, enter into generatemarkdown folder and scroll to the 
+  bottom of the page to change link to your github profile link.
 
   ## Usage Information
   -run node index.js in folders terminal.
@@ -74,10 +77,15 @@
   -answer questions. 
   
   -once completed README.md file will be created. 
-
+  
+  ### Screenshots of generated README.md file
  ![Top of README](https://github.com/Palafos23/Readme_Generator/assets/132620047/bead1313-2b39-409e-ab72-311f85eae415)
 
+
+
  ![middel of README](https://github.com/Palafos23/Readme_Generator/assets/132620047/9a50f8e7-40ab-441b-ba0c-cd84220d759e)
+
+
 
  ![End of README](https://github.com/Palafos23/Readme_Generator/assets/132620047/0d40f622-181a-4f6c-80f8-dd38b2b21bb5)
   ## License
