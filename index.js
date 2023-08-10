@@ -22,23 +22,23 @@ inquirer
     },
     {
       type: 'input',
-      name: 'installationInstructions',
+      name: 'installation',
       message: 'Enter the installation instructions:',
     },
 
     {
       type: 'input',
-      name: 'usageInformation',
+      name: 'usage',
       message: 'Enter usage instructions for this project:',  
     },
     {
       type: 'input',
-      name: 'contributionGuidelines',
+      name: 'contribution',
       message: 'Enter contribution guidelines for this project:',  
     },
     {
       type: 'input',
-      name: 'testInstructions',
+      name: 'test',
       message: 'Enter test instructions for this project:',  
     },
     {

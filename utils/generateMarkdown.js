@@ -69,8 +69,8 @@ function renderUSACSection(userStoryAcceptanceCriteria) {
 }
 
 // TODO: Create a function to generate markdown for README
-function generateMarkdown({title, userStoryAcceptanceCriteria, description, installationInstructions,
-  usageInformation, contributionGuidelines, testInstructions, license,
+function generateMarkdown({title, userStoryAcceptanceCriteria, description, installation,
+  usage, contribution, test, license,
   GithubUsername, emailAddress}) {
   return `
   # ${title}
@@ -84,34 +84,34 @@ function generateMarkdown({title, userStoryAcceptanceCriteria, description, inst
 
   ## Table of contents
   
-  [Installation Instuctions](#installationInstructions)
+  [Installation](#installation)
   \n
-  [Usage Information](#usageInformation)
+  [Usage](#usage)
   \n
-  [Contribution Guidelines](#contributionGuidelines)
+  [Contribution](#contribution)
   \n
-  [Test Instructions](#testInstructions)
+  [Test](#test)
   \n
   [License](#license)
   \n
   [Questions](#questions)
 
 
-  ## Installation Instructions
+  ## Installation
 
-  ${installationInstructions}
+  ${installation}
 
-  ## Usage Information
+  ## Usage
   
-  ${usageInformation}
+  ${usage}
 
-  ## Contribution GuideLines
+  ## Contribution
 
-  ${contributionGuidelines}
+  ${contribution}
 
-  ## Test Instructions
+  ## Test
    
-  ${testInstructions}
+  ${test}
 
   ${renderLicenseSection(license)}
   
@@ -124,4 +124,5 @@ function generateMarkdown({title, userStoryAcceptanceCriteria, description, inst
 }
 
 module.exports = generateMarkdown;
+
 
