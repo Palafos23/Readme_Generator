@@ -46,10 +46,10 @@
 
   ## Table of contents
   
-  [Installation Instuctions](#installationInstructions)
+  [Installation](#installation)
   
 
-  [Usage Information](#usageInformation)
+  [Usage](#usage)
   
 
   [License](#license)
@@ -61,7 +61,7 @@
   [Questions](#questions)
 
 
-  ## Installation Instructions
+  ## Installation
   -Install [node.js](https://nodejs.org/en) to your computer.
 
   -clone repository to working folder. 
@@ -71,7 +71,7 @@
   -lastly, within utils folder, enter into generatemarkdown folder and scroll to the 
   bottom of the page to change link to your github profile link.
 
-  ## Usage Information
+  ## Usage
   -run node index.js in folders terminal.
 
   -answer questions. 
