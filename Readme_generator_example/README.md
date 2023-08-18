@@ -23,20 +23,20 @@
   
   ## Descripiton
   
-  Description
+  
 
   ## Table of contents
   
-  [Installation Instuctions](#installationInstructions)
+  [Installation](#installation)
   
 
-  [Usage Information](#usageInformation)
+  [Usage](#usage)
   
 
-  [Contribution Guidelines](#contributionGuidelines)
+  [Contribution](#contribution)
   
 
-  [Test Instructions](#testInstructions)
+  [Test](#test)
   
 
   [License](#license)
@@ -45,21 +45,21 @@
   [Questions](#questions)
 
 
-  ## Installation Instructions
+  ## Installation
 
-  Installation
-
-  ## Usage Information
   
-  Usage
 
-  ## Contribution GuideLines
+  ## Usage
+  
+  
 
-  Contribution
+  ## Contribution
 
-  ## Test Instructions
+  
+
+  ## Test
    
-  Test
+  
 
   ## License
 
@@ -70,4 +70,4 @@
   Github: [Palafos23](https://github.com/Palafos23)
   
 
-  Email: josephpalafos24@gmail.com
+  Email: 12345678@exampleemail.com

@@ -1,5 +1,5 @@
 
-# Professional README Generator
+ # Professional README Generator
   ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
   ## User Story 
@@ -67,9 +67,6 @@
   -clone repository to working folder. 
 
   -Do an npm install in terminal. 
-
-  -lastly, within utils folder, enter into generatemarkdown folder and scroll to the 
-  bottom of the page to change link to your github profile link.
 
   ## Usage
   -run node index.js in folders terminal.

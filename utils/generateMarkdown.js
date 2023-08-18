@@ -117,7 +117,7 @@ function generateMarkdown({title, userStoryAcceptanceCriteria, description, inst
   
   ## Questions
 
-  Github: [${GithubUsername}](https://github.com/Palafos23)
+  Github: [${GithubUsername}](https://github.com/${GithubUsername})
   \n
   Email: ${emailAddress}
 `;
